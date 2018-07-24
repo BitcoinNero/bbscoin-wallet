@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Bitcoin Nero Wallet
+Comment=Bitcoin Nero wallet
+Exec=bitcoinnerowallet %U
+Terminal=false
+Type=Application
+Icon=bitcoinnero
+MimeType=x-scheme-handler/bitcoinnero;
+Categories=Office;Finance;
